@@ -23,7 +23,7 @@ Bu proje, Instagram üzerindeki çeşitli etkileşimleri otomatikleştirmek içi
 
 1. Bu projeyi klonlayın veya indirin:
    ```bash
-   git clone https://github.com/kullanici_adiniz/instagram-bot.git
+   git clone https://github.com/uwpear/instabot.git
    cd instagram-bot
 Gerekli kütüphaneyi yükleyin:
 
@@ -37,7 +37,7 @@ Kullanım
 Uygulamayı başlatın:
 
  ```bash
-   git clone https://github.com/kullanici_adiniz/instagram-bot.git
+   git clone https://github.com/uwpear/instabot.git
    cd instagram-bot
 ```
 Kodu kopyala
